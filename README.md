@@ -123,7 +123,7 @@ Problem | CName | Python | C++ | Java
 [191. Number of 1 Bits] | 二进制中1的个数 | √ | | √
 [371. Sum of Two Integers] | 两个整数的和 | √ | √ |
 
-[算法笔记模板](https://github.com/jianfa/myLeetcode/template.md)
+[算法笔记模板](https://github.com/jianfa/myLeetcode/blob/master/template.md)
 
 The template is credited to [Decalogue](https://github.com/Decalogue/AlgorithmMap)
 
