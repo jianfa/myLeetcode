@@ -6,7 +6,7 @@ Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
 [977. Squares of a Sorted Array]( <https://github.com/jianfa/myLeetcode/blob/master/code/977_Squares_of_a_sorted_array.md>  ) |  | √ |  | 
 [529. Minesweeper](https://github.com/jianfa/myLeetcode/blob/master/code/529.md) | DFR | √ | |
-[167. Two Sum II - Input array is sorted] |  在数组中找到两数之和等于目标值的两数索引（数组已经有序） | √ | |
+[530. Minimum Absolute Difference in BST](https://github.com/jianfa/myLeetcode/blob/master/code/530.md) |  BST,in-order traversal, non-recursive traversal | √ | |
 [4. Median of Two Sorted Arrays] | 两个有序数组的中位数 | √ | |
 [7. Reverse Integer] | 反转整数 | √ | |
 [11. Container With Most Water] | 盛最多水的容器 | √ | | √
