@@ -10,9 +10,9 @@
 ## 例子 Example
 ### Example 1
 
-> ![example1](https://github.com/jianfa/myLeetcode/img/leetcode/529_1.png)
+> ![example1](../img/529_1.png)
 ### Example 2
-> ![example2](https://github.com/jianfa/myLeetcode/img/leetcode/529_2.png)
+> ![example2](../img/529_2.png)
 
 ## 分析 Analysis
 
