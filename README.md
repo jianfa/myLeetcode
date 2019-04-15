@@ -8,7 +8,7 @@ Problem | CName | Python | C++ | Java
 [529. Minesweeper](https://github.com/jianfa/myLeetcode/blob/master/code/529.md) | DFR | √ | |
 [530. Minimum Absolute Difference in BST](https://github.com/jianfa/myLeetcode/blob/master/code/530.md) |  BST,in-order traversal, non-recursive traversal | √ | |
 [897. Increasing Order Search Tree](https://github.com/jianfa/myLeetcode/blob/master/code/897.md) | DFS,用generator | √ | |
-[7. Reverse Integer] | 反转整数 | √ | |
+[704. Binary Search](https://github.com/jianfa/myLeetcode/blob/master/code/704.md) | Binary Search 模板 | √ | |
 [11. Container With Most Water] | 盛最多水的容器 | √ | | √
 [15. 3Sum] | 在数组中找到3数之和等于0的所有组合 | √ | |
 [16. 3Sum Closest] | 在数组中找到最接近 target 的3数之和 | √ | | √
