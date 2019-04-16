@@ -1,11 +1,13 @@
 # 高效刷 LeetCode
 
 ## `Binary Search 二分查找`
-特点：已经排好序
+特点：逐渐缩小范围，关键在于分析该移动的是左边界还是右边界。
+适用类型：1. 已经排好序，2.找峰值。
 
 Problem | Remark | Python | C++ 
 :------- | :----- | :----: | :----: 
 [704. Binary Search](https://github.com/jianfa/myLeetcode/blob/master/code/704.md) | Binary Search 模板 | √ | 
+[75. Find Peak Element](https://github.com/jianfa/myLeetcode/blob/master/code/75.md) | 找峰值 | √ | 
 
 ## `Search -BFS/DFS`
 有递归和非递归两大类，又分为pre-order, in-order, post-order三类
