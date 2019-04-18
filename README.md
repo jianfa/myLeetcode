@@ -8,6 +8,7 @@ Problem | Remark | Python | C++
 :------- | :----- | :----: | :----: 
 [704. Binary Search](https://github.com/jianfa/myLeetcode/blob/master/code/704.md) | Binary Search 模板 | √ | 
 [75. Find Peak Element](https://github.com/jianfa/myLeetcode/blob/master/code/75.md) | 找峰值 | √ | 
+[4. Median of two ssorted array](https://github.com/jianfa/myLeetcode/blob/master/code/4.md) | 找Kth值 | √ | 
 
 ## `Search -BFS/DFS`
 有递归和非递归两大类，又分为pre-order, in-order, post-order三类
