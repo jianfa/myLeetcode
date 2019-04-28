@@ -16,6 +16,41 @@ Problem | Remark | Python | C++
 [302. Smallest rectangel enclosing black pixels](https://github.com/jianfa/myLeetcode/blob/master/code/302.md) | 用binary search分别找四个边界 | √ |
 
 
+## `Breadth first search`
+
+适合找minimum depth 或者step类型的题目
+
+BFS 三步骤：  
+1. start node  
+2. update level node list  
+3. the ending condition 
+
+
+Problem | Remark | Python | C++ 
+:------- | :----- | :----: | :----: 
+[102. Binary Tree Level Traversal](https://github.com/jianfa/myLeetcode/blob/master/code/102.md) | BFS模板 | √ | 
+[310. Minimum Height Tree](https://github.com/jianfa/myLeetcode/blob/master/code/310.md) | BFS bottom-up的应用 | √ | 
+
+## `Dynamic programming`
+DP的本质是减少循环和重复计算次数，用空间换取时间。
+这些问题可以用到DP：  
+  1. 找最大/最小  
+  2. Yes/No  
+  3. Count  
+
+用DP解题，分四个步骤  
+1. state function  
+2. initialization  
+3. update function  
+4. final result  
+ 
+  DP问题的最大难点在于对state function的构造，以及如何update。  
+  
+Problem | Remark | Python | C++ 
+:------- | :----- | :----: | :----: 
+[120. Triangle](https://github.com/jianfa/myLeetcode/blob/master/code/120.md) | 标准动规题 | √ |  
+
+
 ## `Search -BFS/DFS`
 有递归和非递归两大类，又分为pre-order, in-order, post-order三类
 
@@ -37,7 +72,7 @@ Problem | Remark | Python | C++
 
 Problem | Remark | Python | C++ 
 :------- | :----- | :----: | :----: 
-[20. Valid Parentheses] | 括号匹配 | √ | 
+[85. Largest Rectangle in Histogram](https://github.com/jianfa/myLeetcode/blob/master/code/85.md) | 巧妙使用栈解决问题的范例 | √ | 
 [155. Min Stack] | 最小值栈 | √ | 
 
 ## `Linked List 链表`
