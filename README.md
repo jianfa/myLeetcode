@@ -21,7 +21,7 @@ Problem | Remark | Python | C++
 适合找minimum depth 或者step类型的题目
 
 BFS 三步骤：  
-1. start node  
+1. find start node  
 2. update level node list  
 3. the ending condition 
 
@@ -34,6 +34,7 @@ Problem | Remark | Python | C++
 [127. Word Ladder](https://github.com/jianfa/myLeetcode/blob/master/code/127.md) | BFS top-down| √ | 
 [934. Shortest Bridge](https://github.com/jianfa/myLeetcode/blob/master/code/934.md) | 两遍BFS top-down| √ | 
 [407. Trapping Rain Water II](https://github.com/jianfa/myLeetcode/blob/master/code/407.md) | minimum heap + bottom-up BFS| √ | 
+[743. Network Delay Time](https://github.com/jianfa/myLeetcode/blob/master/code/743.md) | Graph+Dijkstra+heap | √ | 
 
 ## `Dynamic programming`
 DP的本质是减少循环和重复计算次数，用空间换取时间。
