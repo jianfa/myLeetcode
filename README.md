@@ -56,14 +56,18 @@ Problem | Remark | Python | C++
 [120. Triangle](https://github.com/jianfa/myLeetcode/blob/master/code/120.md) | 标准动规题 | √ |  
 
 
-## `Search -BFS/DFS`
-有递归和非递归两大类，又分为pre-order, in-order, post-order三类
+## `DFS`
+
+![example1](./img/dfs.png)
+
+Recursive traversal 和divide and conquer最大的区别在于怎么返回结果，recursive traversal把结果放在参数中返回，每一次修改的是同一个变量，比较省空间。而divide and conquer是把结果单独返回，这样可以把左右子树返回的结果进行比较，缺点是比较费空间。所有需要对左右子树进行比较的问题，都需要用divide and conquer。
 
 Problem | Remark | Python | C++ 
 :------- | :----- | :----: | :----: 
 [529. Minesweeper](https://github.com/jianfa/myLeetcode/blob/master/code/529.md) | DFS | √ | 
 [530. Minimum Absolute Difference in BST](https://github.com/jianfa/myLeetcode/blob/master/code/530.md) |  BST,in-order traversal, non-recursive traversal | √ | 
 [897. Increasing Order Search Tree](https://github.com/jianfa/myLeetcode/blob/master/code/897.md) | DFS,用generator | √ | 
+[124. Binary Tree Maximum Path Sum](https://github.com/jianfa/myLeetcode/blob/master/code/124.md) |divide and conquer | √ |
 
 
 ## `Array`
@@ -105,7 +109,7 @@ Problem | Remark | Python
 
 Problem | Remark | Python | C++ 
 :------- | :----- | :----: | :----: 
-[124. Binary Tree Maximum Path Sum](https://github.com/jianfa/myLeetcode/blob/master/code/124.md) |divide and conquer | √ |
+
 
 
 ## `Hash Table 哈希表`
