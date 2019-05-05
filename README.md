@@ -72,6 +72,7 @@ Problem | Remark | Python | C++
 [110. Balanced Binary Tree](https://github.com/jianfa/myLeetcode/blob/master/code/110.md) |DFS, divide and conquer | √ |
 [79. Word Search](https://github.com/jianfa/myLeetcode/blob/master/code/79.md) |DFS+backtracking | √ |
 [98. Validate Binary Search Tree](https://github.com/jianfa/myLeetcode/blob/master/code/98.md) |Inorder DFS | √ |
+[144. Binary Tree Preorder Traversal](https://github.com/jianfa/myLeetcode/blob/master/code/144.md) |Preorder DFS | √ |
 
 
 ## `Array`
