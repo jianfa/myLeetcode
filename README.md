@@ -74,6 +74,15 @@ Problem | Remark | Python | C++
 [98. Validate Binary Search Tree](https://github.com/jianfa/myLeetcode/blob/master/code/98.md) |Inorder DFS | √ |
 [144. Binary Tree Preorder Traversal](https://github.com/jianfa/myLeetcode/blob/master/code/144.md) |Preorder DFS | √ |
 
+## `Backtracking`
+
+Problem | Remark | Python | C++ 
+:------- | :----- | :----: | :----: 
+[52. N-Queens II]( <https://github.com/jianfa/myLeetcode/blob/master/code/52.md>  ) |  | √ |
+[90. Subsets II]( <https://github.com/jianfa/myLeetcode/blob/master/code/90.md>  ) |  | √ |
+[842. Split Array into Fibonacci Sequence]( <https://github.com/jianfa/myLeetcode/blob/master/code/842.md>  ) |  | √ |
+[216. Combination Sum III]( <https://github.com/jianfa/myLeetcode/blob/master/code/216.md>  ) |  | √ |
+
 
 ## `Array`
 

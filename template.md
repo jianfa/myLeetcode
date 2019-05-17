@@ -17,26 +17,9 @@
 ## 分析 Analysis
 
 核心思想：
-> 思路1：This is a DFS problem, use recursive approach
->> 时间复杂度：O(nlogn)
->> 空间复杂度：O(n)
-
-
-## 定义 Definition
-
-### Python
-
-
-```python
-
-
-```
-
-### C++
-
-```c++
-
-```
+> 思路1：
+>> 时间复杂度：O()
+>> 空间复杂度：O()
 
 
 ## 解决方案 Solution
@@ -45,8 +28,8 @@
 ```
 ### 1.
 
-> 时间复杂度：O(nlogn)
-> 空间复杂度：O(n)
+> 时间复杂度：O()
+> 空间复杂度：O()
 
 ### Python
 
