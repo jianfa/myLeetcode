@@ -95,9 +95,17 @@ class Solution:
 		if cur_idx == len(nums):
 			self.res.append(state)
 			return
-		# while loop
+		# while loop or for loop
 		while cur_idx < len(nums):
-			self.backtrack(nums, state+[nums[cur_idx]], cur_idx+1)
+			# update state
+			state.append(nums[cur_idx])
+			# recursion
+			self.backtrack(nums, state, cur_idx+1)
+			# restore state
+			state.pop() 
+			# may need to skip duplicate values
+			
+			# update index
 			cur_idx += 1
 		return 
 		 
