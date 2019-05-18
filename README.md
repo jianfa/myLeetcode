@@ -76,12 +76,36 @@ Problem | Remark | Python | C++
 
 ## `Backtracking`
 
+backtracking 的问题非常好套用模板,基本的模板就是
+
+```
+class Solution:
+	def solution(self, nums: List[int]) -> List[List[int]]:
+		# input control
+		# preprocess data, for example, sorting
+		self.res = [] # a list to store final result
+		self.backtrack(nums, [], 0) # nums:-> candidate list, []: -> current state variable or a kind of combination, 0:-> index variable
+		return self.res
+		
+	def backtrack(self, nums, state, cur_idx):
+		# ending condition and operation (whether append the state to self.res)
+		if cur_idx == len(nums):
+			self.res.append(state)
+			return
+		# while loop
+		while cur_idx < len(nums):
+			self.backtrack(nums, state+[nums[cur_idx]], cur_idx+1)
+			cur_idx += 1
+		return 
+		 
+```
+
 Problem | Remark | Python | C++ 
 :------- | :----- | :----: | :----: 
-[52. N-Queens II]( <https://github.com/jianfa/myLeetcode/blob/master/code/52.md>  ) |  | √ |
-[90. Subsets II]( <https://github.com/jianfa/myLeetcode/blob/master/code/90.md>  ) |  | √ |
-[842. Split Array into Fibonacci Sequence]( <https://github.com/jianfa/myLeetcode/blob/master/code/842.md>  ) |  | √ |
-[216. Combination Sum III]( <https://github.com/jianfa/myLeetcode/blob/master/code/216.md>  ) |  | √ |
+[90. Subsets II]( <https://github.com/jianfa/myLeetcode/blob/master/code/90.md>  ) | Backtracking 模板 | √ |
+[52. N-Queens II]( <https://github.com/jianfa/myLeetcode/blob/master/code/52.md>  ) | backtracking + DP | √ |
+[842. Split Array into Fibonacci Sequence]( <https://github.com/jianfa/myLeetcode/blob/master/code/842.md>  ) | two loops  | √ |
+[216. Combination Sum III]( <https://github.com/jianfa/myLeetcode/blob/master/code/216.md>  ) | backtracking | √ |
 
 
 ## `Array`
