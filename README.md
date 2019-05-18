@@ -83,8 +83,11 @@ class Solution:
 	def solution(self, nums: List[int]) -> List[List[int]]:
 		# input control
 		# preprocess data, for example, sorting
-		self.res = [] # a list to store final result
-		self.backtrack(nums, [], 0) # nums:-> candidate list, []: -> current state variable or a kind of combination, 0:-> index variable
+		self.res = [] # a list to store all valid states
+		self.backtrack(nums, [], 0) 
+		# where nums:-> candidate list, 
+		# []: -> current state variable or a kind of combination,
+		# 0:-> index variable
 		return self.res
 		
 	def backtrack(self, nums, state, cur_idx):
