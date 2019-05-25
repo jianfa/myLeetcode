@@ -119,6 +119,17 @@ Problem | Remark | Python | C++
 [216. Combination Sum III]( <https://github.com/jianfa/myLeetcode/blob/master/code/216.md>  ) | backtracking | √ |
 
 
+## `Divide and conquer`
+
+Problem | Remark | Python | C++ 
+:------- | :----- | :----: | :----: 
+[215. Kth Largest Element in an Array]( <https://github.com/jianfa/myLeetcode/blob/master/code/215.md>  ) |  | √ |
+[23. Merge k Sorted Lists]( <https://github.com/jianfa/myLeetcode/blob/master/code/23.md>  ) |  | √ |
+[53. Maximum Subarray]( <https://github.com/jianfa/myLeetcode/blob/master/code/53.md>  ) |  | √ |
+[54. Spiral Matrix]( <https://github.com/jianfa/myLeetcode/blob/master/code/54.md>  ) |  | √ |
+[395. Longest Substring with At Least K Repeating Characters]( <https://github.com/jianfa/myLeetcode/blob/master/code/395.md>  ) |  | √ |
+
+
 ## `Array`
 
 Problem | Remark | Python | C++ 
