@@ -137,6 +137,9 @@ Problem | Remark | Python | C++
 [121. Best Time to Buy and Sell Stock]( <https://github.com/jianfa/myLeetcode/blob/master/code/121.md>  ) | stock 类问题的模板 | √ |
 [122. Best Time to Buy and Sell Stock II]( <https://github.com/jianfa/myLeetcode/blob/master/code/122.md>  ) |使用121的模板 | √ |
 [123. Best Time to Buy and Sell Stock III]( <https://github.com/jianfa/myLeetcode/blob/master/code/123.md>  ) |使用121的模板 | √ |
+[714. Best Time to Buy and Sell Stock with Transaction Fee]( <https://github.com/jianfa/myLeetcode/blob/master/code/714.md>  ) |使用121的模板 | √ |
+[322. Coin Change]( <https://github.com/jianfa/myLeetcode/blob/master/code/322.md>  ) |DP | √ |
+[718. Maximum Length of Repeated Subarray]( <https://github.com/jianfa/myLeetcode/blob/master/code/718.md>  ) |2D array DP | √ |
 
 ## `Array`
 
