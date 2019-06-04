@@ -141,6 +141,19 @@ Problem | Remark | Python | C++
 [322. Coin Change]( <https://github.com/jianfa/myLeetcode/blob/master/code/322.md>  ) |DP | √ |
 [718. Maximum Length of Repeated Subarray]( <https://github.com/jianfa/myLeetcode/blob/master/code/718.md>  ) |2D array DP | √ |
 
+
+## `Topological Sort`
+BFS Template:
+1. Convert to adjancency matrix,outEdges
+2. Create a inEdgeCount list
+3. Create a toVisit queue
+4. Count the number of visited node
+
+Problem | Remark | Python | C++ 
+:------- | :----- | :----: | :----: 
+[207. Course Schedule]( <https://github.com/jianfa/myLeetcode/blob/master/code/207.md>  ) |Topological Sort + BFS,模板| √ |
+[210. Course Schedule II]( <https://github.com/jianfa/myLeetcode/blob/master/code/210.md>  ) |Topological Sort + BFS,用207模板| √ |
+
 ## `Array`
 
 Problem | Remark | Python | C++ 
