@@ -117,6 +117,10 @@ Problem | Remark | Python | C++
 [52. N-Queens II]( <https://github.com/jianfa/myLeetcode/blob/master/code/52.md>  ) | backtracking + DP | √ |
 [842. Split Array into Fibonacci Sequence]( <https://github.com/jianfa/myLeetcode/blob/master/code/842.md>  ) | two loops  | √ |
 [216. Combination Sum III]( <https://github.com/jianfa/myLeetcode/blob/master/code/216.md>  ) | backtracking | √ |
+36. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
+37. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
+10. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
+44. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
 
 
 ## `Divide and conquer`
@@ -128,6 +132,8 @@ Problem | Remark | Python | C++
 [53. Maximum Subarray]( <https://github.com/jianfa/myLeetcode/blob/master/code/53.md>  ) |  | √ |
 [54. Spiral Matrix]( <https://github.com/jianfa/myLeetcode/blob/master/code/54.md>  ) |  | √ |
 [395. Longest Substring with At Least K Repeating Characters]( <https://github.com/jianfa/myLeetcode/blob/master/code/395.md>  ) |  | √ |
+59. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
+644. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
 
 
 ## `Dynamic programming`
@@ -140,6 +146,8 @@ Problem | Remark | Python | C++
 [714. Best Time to Buy and Sell Stock with Transaction Fee]( <https://github.com/jianfa/myLeetcode/blob/master/code/714.md>  ) |使用121的模板 | √ |
 [322. Coin Change]( <https://github.com/jianfa/myLeetcode/blob/master/code/322.md>  ) |DP | √ |
 [718. Maximum Length of Repeated Subarray]( <https://github.com/jianfa/myLeetcode/blob/master/code/718.md>  ) |2D array DP | √ |
+188. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
+309. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
 
 
 ## `Topological Sort`
@@ -154,6 +162,8 @@ Problem | Remark | Python | C++
 [207. Course Schedule]( <https://github.com/jianfa/myLeetcode/blob/master/code/207.md>  ) |Topological Sort + BFS,模板| √ |
 [210. Course Schedule II]( <https://github.com/jianfa/myLeetcode/blob/master/code/210.md>  ) |Topological Sort + BFS,用207模板| √ |
 [444. Sequence Reconstruction]( <https://github.com/jianfa/myLeetcode/blob/master/code/444.md>  ) |Topological Sort + BFS,用207模板，用dict存graph和indegree| √ |
+269. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
+329. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
 
 ## `Array`
 
