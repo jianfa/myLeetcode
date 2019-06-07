@@ -153,6 +153,7 @@ Problem | Remark | Python | C++
 :------- | :----- | :----: | :----: 
 [207. Course Schedule]( <https://github.com/jianfa/myLeetcode/blob/master/code/207.md>  ) |Topological Sort + BFS,模板| √ |
 [210. Course Schedule II]( <https://github.com/jianfa/myLeetcode/blob/master/code/210.md>  ) |Topological Sort + BFS,用207模板| √ |
+[444. Sequence Reconstruction]( <https://github.com/jianfa/myLeetcode/blob/master/code/444.md>  ) |Topological Sort + BFS,用207模板，用dict存graph和indegree| √ |
 
 ## `Array`
 
