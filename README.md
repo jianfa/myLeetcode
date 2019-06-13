@@ -165,6 +165,17 @@ Problem | Remark | Python | C++
 [269. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
 [329. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
 
+
+## `Bit Manipulation 位运算`
+
+Problem | Remark | Python | C++ 
+:------- | :----- | :----: | :----: 
+[338. Counting Bits]( <https://github.com/jianfa/myLeetcode/blob/master/code/338.md>  ) |i & (i - 1)| √ |
+[78. Subsets]( <https://github.com/jianfa/myLeetcode/blob/master/code/78.md>  ) |bit manipulation or backtracking| √ |
+[136. Single Number]( <https://github.com/jianfa/myLeetcode/blob/master/code/136.md>  ) |XOR| √ |
+[137. Single Number II]( <https://github.com/jianfa/myLeetcode/blob/master/code/137.md>  ) |XOR| √ |
+[260. Single Number III]( <https://github.com/jianfa/myLeetcode/blob/master/code/260.md>  ) |XOR| √ |
+
 ## `Array`
 
 Problem | Remark | Python | C++ 
@@ -219,10 +230,6 @@ Problem | Remark | Python | C++
 :------- | :----- | :----: | :----: 
 
 
-## `Bit Manipulation 位运算`
-
-Problem | Remark | Python | C++ 
-:------- | :----- | :----: | :----: 
 
 
 [算法笔记模板](https://github.com/jianfa/myLeetcode/blob/master/template.md)
