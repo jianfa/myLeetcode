@@ -185,9 +185,18 @@ Problem | Remark | Python | C++
 
 ## `Stack 栈`
 
+Monotone stack:  
+1. Monotone increasing stack  
+2. Monotone decreasing stack  
+选哪个的关键在于什么时候出栈，如果是希望右边的值比较大时候弹出，即找到右边第一个比当前值大的数时弹出，就用decreasing stack，
+如果是希望右边的值比较小时弹出，即找到右边第一个比当前值小的数时弹出，就用increasing stack。  
+用monotone stack要注意，由于经常是为了找位置，所以推入栈的经常是位置。  
+利用 monotone stack的时间复杂度是O(N)
+
 Problem | Remark | Python | C++ 
 :------- | :----- | :----: | :----: 
-[85. Largest Rectangle in Histogram](https://github.com/jianfa/myLeetcode/blob/master/code/85.md) | 巧妙使用栈解决问题的范例 | √ | 
+[42. Trapping Rain Water](https://github.com/jianfa/myLeetcode/blob/master/code/42.md) | Decreasing stack | √ | 
+[85. Largest Rectangle in Histogram](https://github.com/jianfa/myLeetcode/blob/master/code/85.md) | Increasing stack | √ | 
 [155. Min Stack] | 最小值栈 | √ | 
 
 ## `Linked List 链表`

@@ -8,7 +8,7 @@
 
 ## 例子 Example
  
-> ![example1](../img/529_1.png)
+> ![example1](../img/42.png)
 
 
 ## 分析 Analysis
