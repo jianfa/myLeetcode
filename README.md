@@ -36,24 +36,7 @@ Problem | Remark | Python | C++
 [407. Trapping Rain Water II](https://github.com/jianfa/myLeetcode/blob/master/code/407.md) | minimum heap + bottom-up BFS| √ | 
 [743. Network Delay Time](https://github.com/jianfa/myLeetcode/blob/master/code/743.md) | Graph+Dijkstra+heap | √ | 
 
-## `Dynamic programming`
-DP的本质是减少循环和重复计算次数，用空间换取时间。
-这些问题可以用到DP：  
-  1. 找最大/最小  
-  2. Yes/No  
-  3. Count  
 
-用DP解题，分四个步骤  
-1. state function  
-2. initialization  
-3. update function  
-4. final result  
- 
-  DP问题的最大难点在于对state function的构造，以及如何update。  
-  
-Problem | Remark | Python | C++ 
-:------- | :----- | :----: | :----: 
-[120. Triangle](https://github.com/jianfa/myLeetcode/blob/master/code/120.md) | 标准动规题 | √ |  
 
 
 ## `DFS`
@@ -73,6 +56,34 @@ Problem | Remark | Python | C++
 [79. Word Search](https://github.com/jianfa/myLeetcode/blob/master/code/79.md) |DFS+backtracking | √ |
 [98. Validate Binary Search Tree](https://github.com/jianfa/myLeetcode/blob/master/code/98.md) |Inorder DFS | √ |
 [144. Binary Tree Preorder Traversal](https://github.com/jianfa/myLeetcode/blob/master/code/144.md) |Preorder DFS | √ |
+
+
+## `Dynamic programming`
+DP的本质是减少循环和重复计算次数，用空间换取时间。
+这些问题可以用到DP：  
+  1. 找最大/最小  
+  2. Yes/No  
+  3. Count  
+
+用DP解题，分四个步骤  
+1. state function  
+2. initialization  
+3. update function  
+4. final result  
+ 
+  DP问题的最大难点在于对state function的构造，以及如何update。  
+  
+Problem | Remark | Python | C++ 
+:------- | :----- | :----: | :----: 
+[120. Triangle](https://github.com/jianfa/myLeetcode/blob/master/code/120.md) | 标准动规题 | √ |  
+[121. Best Time to Buy and Sell Stock]( <https://github.com/jianfa/myLeetcode/blob/master/code/121.md>  ) | stock 类问题的模板 | √ |
+[122. Best Time to Buy and Sell Stock II]( <https://github.com/jianfa/myLeetcode/blob/master/code/122.md>  ) |使用121的模板 | √ |
+[123. Best Time to Buy and Sell Stock III]( <https://github.com/jianfa/myLeetcode/blob/master/code/123.md>  ) |使用121的模板 | √ |
+[714. Best Time to Buy and Sell Stock with Transaction Fee]( <https://github.com/jianfa/myLeetcode/blob/master/code/714.md>  ) |使用121的模板 | √ |
+[322. Coin Change]( <https://github.com/jianfa/myLeetcode/blob/master/code/322.md>  ) |DP | √ |
+[718. Maximum Length of Repeated Subarray]( <https://github.com/jianfa/myLeetcode/blob/master/code/718.md>  ) |2D array DP | √ |
+[188. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
+[309. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
 
 ## `Backtracking`
 
@@ -136,18 +147,7 @@ Problem | Remark | Python | C++
 [644. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
 
 
-## `Dynamic programming`
 
-Problem | Remark | Python | C++ 
-:------- | :----- | :----: | :----: 
-[121. Best Time to Buy and Sell Stock]( <https://github.com/jianfa/myLeetcode/blob/master/code/121.md>  ) | stock 类问题的模板 | √ |
-[122. Best Time to Buy and Sell Stock II]( <https://github.com/jianfa/myLeetcode/blob/master/code/122.md>  ) |使用121的模板 | √ |
-[123. Best Time to Buy and Sell Stock III]( <https://github.com/jianfa/myLeetcode/blob/master/code/123.md>  ) |使用121的模板 | √ |
-[714. Best Time to Buy and Sell Stock with Transaction Fee]( <https://github.com/jianfa/myLeetcode/blob/master/code/714.md>  ) |使用121的模板 | √ |
-[322. Coin Change]( <https://github.com/jianfa/myLeetcode/blob/master/code/322.md>  ) |DP | √ |
-[718. Maximum Length of Repeated Subarray]( <https://github.com/jianfa/myLeetcode/blob/master/code/718.md>  ) |2D array DP | √ |
-[188. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
-[309. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
 
 
 ## `Topological Sort`
