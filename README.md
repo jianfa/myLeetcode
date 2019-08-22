@@ -80,10 +80,11 @@ Problem | Remark | Python | C++
 [122. Best Time to Buy and Sell Stock II]( <https://github.com/jianfa/myLeetcode/blob/master/code/122.md>  ) |使用121的模板 | √ |
 [123. Best Time to Buy and Sell Stock III]( <https://github.com/jianfa/myLeetcode/blob/master/code/123.md>  ) |使用121的模板 | √ |
 [714. Best Time to Buy and Sell Stock with Transaction Fee]( <https://github.com/jianfa/myLeetcode/blob/master/code/714.md>  ) |使用121的模板 | √ |
+[188. Best Time to Buy and Sell Stock IV]( <https://github.com/jianfa/myLeetcode/blob/master/code/188.md>  ) |使用121的模板，稍微修改，注意K值大的情况特殊处理| √  |
+[309. Best Time to Buy and Sell Stock with Cooldown]( <https://github.com/jianfa/myLeetcode/blob/master/code/309.md>  ) |使用121的模板，稍微修改，注意三种状态同时刷新|  √  |
 [322. Coin Change]( <https://github.com/jianfa/myLeetcode/blob/master/code/322.md>  ) |DP | √ |
 [718. Maximum Length of Repeated Subarray]( <https://github.com/jianfa/myLeetcode/blob/master/code/718.md>  ) |2D array DP | √ |
-[188. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
-[309. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
+
 
 ## `Backtracking`
 
