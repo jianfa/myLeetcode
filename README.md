@@ -84,7 +84,8 @@ Problem | Remark | Python | C++
 [309. Best Time to Buy and Sell Stock with Cooldown]( <https://github.com/jianfa/myLeetcode/blob/master/code/309.md>  ) |使用121的模板，稍微修改，注意三种状态同时刷新|  √  |
 [322. Coin Change]( <https://github.com/jianfa/myLeetcode/blob/master/code/322.md>  ) |DP | √ |
 [718. Maximum Length of Repeated Subarray]( <https://github.com/jianfa/myLeetcode/blob/master/code/718.md>  ) |2D array DP | √ |
-
+[10. Regular Expression Matching]( <https://github.com/jianfa/myLeetcode/blob/master/code/10.md>  ) |DP和recusive都可以做| √ |
+[44. Wildcard Matching]( <https://github.com/jianfa/myLeetcode/blob/master/code/44.md>  ) |DP| √ |
 
 ## `Backtracking`
 
@@ -129,10 +130,9 @@ Problem | Remark | Python | C++
 [52. N-Queens II]( <https://github.com/jianfa/myLeetcode/blob/master/code/52.md>  ) | backtracking + DP | √ |
 [842. Split Array into Fibonacci Sequence]( <https://github.com/jianfa/myLeetcode/blob/master/code/842.md>  ) | two loops  | √ |
 [216. Combination Sum III]( <https://github.com/jianfa/myLeetcode/blob/master/code/216.md>  ) | backtracking | √ |
-[36. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
-[37. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
-[10. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
-[44. ]( <https://github.com/jianfa/myLeetcode/blob/master/code/.md>  ) |未做|  |
+[37. Sudoku Solver]( <https://github.com/jianfa/myLeetcode/blob/master/code/37.md>  ) |用模板就行| √ |
+
+
 
 
 ## `Divide and conquer`
@@ -232,6 +232,7 @@ Problem | Remark | Python | C++
 
 Problem | Remark | Python | C++ 
 :------- | :----- | :----: | :----: 
+[36. Valid Sudoku]( <https://github.com/jianfa/myLeetcode/blob/master/code/36.md>  ) | 用set就行 | √ |
 
 
 ## `Math 数学`
