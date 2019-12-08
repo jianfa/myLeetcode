@@ -210,12 +210,8 @@ Problem | Remark | Python | C++
 
 Problem | Remark | Python | C++ 
 :------- | :----- | :----: | :----: 
+[5. Longest Palindromic Substring](https://github.com/jianfa/myLeetcode/blob/master/code/5.md) | Expand around center / manacher's algorithm | √ | 
 
-
-## `Dynamic Programming 动态规划`
-
-Problem | Remark | Python 
-:------- | :----- | :----: 
 
 
 
@@ -233,13 +229,14 @@ Problem | Remark | Python | C++
 Problem | Remark | Python | C++ 
 :------- | :----- | :----: | :----: 
 [36. Valid Sudoku]( <https://github.com/jianfa/myLeetcode/blob/master/code/36.md>  ) | 用set就行 | √ |
+[340. Longest Substring with At Most K Distinct Characters]( <https://github.com/jianfa/myLeetcode/blob/master/code/340.md>  ) | OrderedDict | √ |
 
 
 ## `Math 数学`
 
 Problem | Remark | Python | C++ 
 :------- | :----- | :----: | :----: 
-
+[1250. Check If It Is a Good Array]( <https://github.com/jianfa/myLeetcode/blob/master/code/1250.md>  ) | Greatest Common Divisor (GCD/Bezout) 辗转相除法| √ |
 
 
 
